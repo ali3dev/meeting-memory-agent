@@ -1,10 +1,15 @@
-﻿[project]
+[project]
 name = "meeting-memory-agent"
 version = "0.1.0"
 description = "An evidence-grounded agentic meeting memory system"
 readme = "README.md"
 requires-python = ">=3.12"
-dependencies = []
+dependencies = [
+    "groq>=1.7.0",
+    "openai>=3.57.0",
+    "pydantic>=2.14.4",
+    "python-dotenv>=1.2.4",
+]
 
 [project.optional-dependencies]
 dev = [
@@ -13,7 +18,7 @@ dev = [
 ]
 
 [project.scripts]
-meeting-memory-agent = "meeting_memory_agent:main"
+meeting-memory-agent = "meeting_memory_agent.run_questions:main"
 
 [build-system]
 requires = ["uv_build>=0.8.13,<0.9.0"]

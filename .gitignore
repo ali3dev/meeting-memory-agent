@@ -32,3 +32,10 @@ dist/
 # OS files
 .DS_Store
 Thumbs.db
+
+
+
+# Generated outputs: keep final deliverables only
+outputs/*
+!outputs/submission.json
+!outputs/batch_run_report.json

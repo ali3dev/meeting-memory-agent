@@ -1,2 +1,2 @@
 def main() -> None:
-    print("Hello from meeting-memory-agent!")
+    print("Evidence-grounded meeting memory agent.")

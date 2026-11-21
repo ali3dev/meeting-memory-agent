@@ -1,0 +1,375 @@
+{
+  "total_questions": 25,
+  "successful_count": 25,
+  "failed_count": 0,
+  "answers": [
+    {
+      "question_id": "Q01",
+      "answer": "The team decided to drop speech recognition and keep the LCD screen, because the screen was central to the remote’s interface and would light up to display options.",
+      "citations": [
+        {
+          "meeting_id": "TS3006d",
+          "quote": "Okay so we drop the speech. And drop it yeah? Okay. S Fo Four less Euros. So we still have three and a half Euro to lose."
+        },
+        {
+          "meeting_id": "TS3006c",
+          "quote": "Yeah in the in the last uh meeting we uh we were yeah putting the the simple and the advanced options separated. That's yeah obvious. Um yeah. Pressing the the menu option uh will disable uh all other options on your uh remote control. And only the the L_C_D_ panel will uh light up and then you can only uh change the yeah the options."
+        }
+      ]
+    },
+    {
+      "question_id": "Q02",
+      "answer": "The team initially favored a rubber (stress‑ball) material for the case, but later switched to a cheaper plastic because the rubber made the case too expensive and forced them to sacrifice other design goals.",
+      "citations": [
+        {
+          "meeting_id": "ES2003c",
+          "quote": "Oh yeah, I forgot to mention that. The uh rubber material is the type of stress ball material, not just normal rubber. Forgot to say that."
+        },
+        {
+          "meeting_id": "ES2003d",
+          "quote": "as you can see I mean that's taken up well over half of the price. So um I'm very much open to suggestions of where we go, but because we need to shed what was four Euros off of the um the price of for what we really desired, this one comes in under price as you can see, but this was the one that sacrificed the material for the case and for the actual case design."
+        }
+      ]
+    },
+    {
+      "question_id": "Q03",
+      "answer": "B was the first to suggest dumping the titanium and using plastic coloured like titanium, and the team ultimately kept the titanium back.",
+      "citations": [
+        {
+          "meeting_id": "TS3009d",
+          "quote": "plastic coloured titanium, uh titanium-coloured plastic?"
+        },
+        {
+          "meeting_id": "TS3009c",
+          "quote": "So, we're going for a titanium back and a plastic front?"
+        }
+      ]
+    },
+    {
+      "question_id": "Q04",
+      "answer": "The team selected a combined energy source of batteries and solar panels, but when the production costs were summed they exceeded the target and would double the planned budget.",
+      "citations": [
+        {
+          "meeting_id": "TS3011c",
+          "quote": "So uh uh just uh the energy source is um the batteries and the solar. Okay."
+        },
+        {
+          "meeting_id": "TS3011d",
+          "quote": "And costs were twelve fifty. But even now, if only our production costs w uh were exceeded the double,"
+        }
+      ]
+    },
+    {
+      "question_id": "Q05",
+      "answer": "Insufficient evidence to determine the initial energy source decision, the final choice, and who proposed any change.",
+      "citations": [
+        {
+          "meeting_id": "TS3007c",
+          "quote": "Uh, well f first off, let's start start with the energy. W I uh I had a choice between uh a few different uh sources. But uh the two basic sources that I found were the best possible were the battery uh versus kinetic. Uh kinetic, that's when you move something, then uh it gets energy."
+        },
+        {
+          "meeting_id": "TS3007b",
+          "quote": "Yeah. Yeah, I actually I figured that would be that would be rather nice, but then you'd still have the uh the infrared function. So in in theory you'd actually just move the problem, but uh what I did uh think about was when you mentioned about the uh the cup-holder, is why not uh introduce a speech function like where is the remote. If somebody says, where is the remote, then it goes uh beep uh beep beep beep or something, I dunno, maybe uh maybe something to look into, I dunno uh what the cost that something like that would be. But it may be uh may be something to explore. Uh I'll I'll just explain a bit of the components. Uh first you have the energy source. The energy source would be a battery, simple uh battery uh that you can find anywhere. I figured that would be best, 'cause when the battery uh stops functioning uh we could just uh use you could just go out and buy a new one."
+        }
+      ]
+    },
+    {
+      "question_id": "Q06",
+      "answer": "Insufficient evidence to identify who raised the main objection and what the objection was.",
+      "citations": [
+        {
+          "meeting_id": "ES2008d",
+          "quote": "Mm-hmm. Okay, that's a fair evaluation. Getting lost. Um we so we do we've decided not to worry about that for now. Okay 'cause well, the designs are very bright, so you're right, they're gonna stick out, but um"
+        },
+        {
+          "meeting_id": "ES2008b",
+          "quote": "Okay, we have to we have about four minutes left to define our functions. So let's do that quickly. Um so we want something to keep it from getting lost."
+        }
+      ]
+    },
+    {
+      "question_id": "Q07",
+      "answer": "The transcripts do not reveal who was tasked with finding the display cost nor the amount they reported.",
+      "citations": [
+        {
+          "meeting_id": "IS1008c",
+          "quote": "No. No no p spec It's 'cause we have to find out cost on it."
+        },
+        {
+          "meeting_id": "IS1008b",
+          "quote": "Well, what I can uh suggest to you, Christine, okay, uh if you need some uh the technical feedback, or some training, okay, about uh this facility, especially for the speech recognition, I can recommend you some companies like uh Intel or I_B_M_, okay, because they're already in this uh speech recognition part, okay. And uh you can maybe have some uh technical backup from them, some kind of a technical tie-up. Okay, and uh if you want, I can coordinate, okay, to get some information, okay, and uh you can uh let me know, okay, so what kind of uh the details you require okay, to add this feature in this project. I don't think it's uh the difficult. And uh we need to know how much is the timeframe you need to develop, apart from uh what today."
+        }
+      ]
+    },
+    {
+      "question_id": "Q08",
+      "answer": "Insufficient evidence is available to identify who raised a health complaint about remote controls, what the complaint was, and how the design responded.",
+      "citations": [
+        {
+          "meeting_id": "ES2007a",
+          "quote": "Okay. Right, who's got experiences with remote controls then? Pretty much everybody."
+        },
+        {
+          "meeting_id": "ES2007c",
+          "quote": "And and this is all tying in very nicely. The fact that it's made out of this rubber, we can throw it about. Th we should encourage people to throw their remote controls about, because it charges itself up by doing it."
+        }
+      ]
+    },
+    {
+      "question_id": "Q09",
+      "answer": "Team IS1002 initially worked with a selling price of €25, then settled on a €35–€50 sales bracket; Speaker D pushed hardest for exclusive premium positioning, proposing €50–€60 wholesale and even suggesting €89.",
+      "citations": [
+        {
+          "meeting_id": "IS1002b",
+          "quote": "Twenty-five Euros is the selling price, we really have to innovate here I guess."
+        },
+        {
+          "meeting_id": "IS1002c",
+          "quote": "'Kay. Thirty five to fifty Euros is our sales bracket okay. So the question is what we ca we make it for."
+        },
+        {
+          "meeting_id": "IS1002b",
+          "quote": "Well, see I I see I I'm an advocate to make this an exclusive product. You know, let's let's sell this wholesale for for fifty Euros, sixty Euros."
+        }
+      ]
+    },
+    {
+      "question_id": "Q10",
+      "answer": "Team TS3003 decided to design for people above sixty, focusing on the elderly because they are likely to be more careful with remote controls. The group was chosen over younger users to match the design’s suitability for that demographic.",
+      "citations": [
+        {
+          "meeting_id": "TS3003b",
+          "quote": "Uh let's um specify the target group. Because are we talking about elderly elderly people or people from forty to eighty. Because I think what we're going to design now is for people above sixty, maybe."
+        },
+        {
+          "meeting_id": "TS3003d",
+          "quote": "Does the design fit the group of focus?"
+        }
+      ]
+    },
+    {
+      "question_id": "Q11",
+      "answer": "Insufficient evidence to determine the question and the subsequent answer.",
+      "citations": [
+        {
+          "meeting_id": "ES2011b",
+          "quote": "You know actually our our new project requirements, I'm not sure if they meant o onl use only for television as in not for D_V_D_ or just not internet type things. So I'll I'll check that and update you on the next But we'll hold off on that 'cause"
+        },
+        {
+          "meeting_id": "ES2011a",
+          "quote": "Okay. I forgot to s say I'm the Project Manager but I figured you all knew that already, um so."
+        }
+      ]
+    },
+    {
+      "question_id": "Q12",
+      "answer": "Voice recognition was dropped from the final remote because it was considered extremely expensive, and the team said a simple beeper would still make the remote easy to locate.",
+      "citations": [
+        {
+          "meeting_id": "ES2004b",
+          "quote": "Or a speech recognition, which is extremely expensive, I think that's the only way that you kind of avoid"
+        },
+        {
+          "meeting_id": "ES2004d",
+          "quote": "And finally, last but not least, easy to locate. Now we talked about voice recognition, we talked about a beeper, have we really have the designers come to any dec real decision on that?"
+        }
+      ]
+    },
+    {
+      "question_id": "Q13",
+      "answer": "The evidence does not clearly indicate whether speech recognition was included in TS3004's final design or identify the specific meeting where they last reversed their position on it.",
+      "citations": [
+        {
+          "meeting_id": "TS3004d",
+          "quote": "Are we doing the the speech recognition? Because we didn't have enough time to uh de um design the inside as well."
+        },
+        {
+          "meeting_id": "TS3004b",
+          "quote": "I d Yeah. I don't think it's uh useful enough to take the effort to design something with uh speech recognition."
+        }
+      ]
+    },
+    {
+      "question_id": "Q14",
+      "answer": "The team’s final costing reached a total of 7.6, and the speech‑recognition feature was left out of that total pending further cost research.",
+      "citations": [
+        {
+          "meeting_id": "IS1009d",
+          "quote": "Okay. Total seven point six whatever that means."
+        },
+        {
+          "meeting_id": "IS1009c",
+          "quote": "Okay, so why don't we put down speech recognition if possible pending some more research from our industrial engineer on how expensive that is."
+        }
+      ]
+    },
+    {
+      "question_id": "Q15",
+      "answer": "The provided evidence does not include the total cost, the budget limit, or which component was removed to bring the design back within budget.",
+      "citations": [
+        {
+          "meeting_id": "ES2016d",
+          "quote": "Okay. Well, let's see. Now we get to do the budget numbers. You didn't know that you were gonna have a budget. But we do. Okay."
+        },
+        {
+          "meeting_id": "ES2016c",
+          "quote": "The we can have the fruits and vegetables on the spongy parts, so they can remove it."
+        }
+      ]
+    },
+    {
+      "question_id": "Q16",
+      "answer": "The project manager initially favored a remote control for navigation, but the final costed design used a gun instead, and no evidence was provided about any additional concessions made to meet the budget.",
+      "citations": [
+        {
+          "meeting_id": "TS3010d",
+          "quote": "process. Went good. Uh I think uh the creativity uh was good enough. We have a gun instead of a remote control. Um Uh leadership. Yeah, you were the project project manager, and uh had the final vote. So yeah that was clear. Team-work okay. Everybody uh has something uh to say about it. And uh no, uh o only the the drawing uh was very difficult. But, nah. New ideas found. Nope."
+        },
+        {
+          "meeting_id": "TS3010b",
+          "quote": "Okay. You're the Project Manager. Yes. That's it."
+        }
+      ]
+    },
+    {
+      "question_id": "Q17",
+      "answer": "Team ES2009 dropped the touch screen in meeting ES2009c, kept voice recognition instead, and estimated that touch screen technology would cost upwards of €17.50 per remote.",
+      "citations": [
+        {
+          "meeting_id": "ES2009a",
+          "quote": "I li I'm liking that idea, this idea of a touch screen remote with multi-format features."
+        },
+        {
+          "meeting_id": "ES2009c",
+          "quote": "Okay. Sorted. We will omit the touch screen in favour of voice recognition."
+        },
+        {
+          "meeting_id": "ES2009c",
+          "quote": "My estimate is that in order to incorporate touch screen technology it's gonna cost us upwards of seventeen fifty Euro per remote"
+        }
+      ]
+    },
+    {
+      "question_id": "Q18",
+      "answer": "The evidence does not show how the original plan to locate a lost remote changed or who later suggested how to present the new version to buyers.",
+      "citations": [
+        {
+          "meeting_id": "ES2014d",
+          "quote": "Okay, but remember the main the only reason we were planning on having the voice recognition was so that they could find the remote if it got lost."
+        },
+        {
+          "meeting_id": "ES2014b",
+          "quote": "But then they might not buy it if they haven't got one. 'Cause people might just be too fickle and not want to change."
+        }
+      ]
+    },
+    {
+      "question_id": "Q19",
+      "answer": "The team initially planned a natural wood case, then switched to a spongier, non‑wood material, and the change was suggested by A.",
+      "citations": [
+        {
+          "meeting_id": "IS1003c",
+          "quote": "So you think case. Something spongy. Someth no wood."
+        },
+        {
+          "meeting_id": "IS1003d",
+          "quote": "Yeah, it was stage one, so."
+        }
+      ]
+    },
+    {
+      "question_id": "Q20",
+      "answer": "In ES2008a, Speaker A said they would look into whether the remote should support devices beyond television; in ES2008b, Speaker A reported that management had decided to focus on television only to avoid added complexity.",
+      "citations": [
+        {
+          "meeting_id": "ES2008a",
+          "quote": "It's a good question. Um. I'll look into that."
+        },
+        {
+          "meeting_id": "ES2008b",
+          "quote": "Interesting. Okay um, well, we're not gonna the management has decided we're not gonna work with that. Um Okay um and we're also gonna w like your question earlier um whether this is going to be t for television, video, or etcetera. Just for television."
+        }
+      ]
+    },
+    {
+      "question_id": "Q21",
+      "answer": "The member who said they would check component prices was C. They reported that the total cost for a version with all functions would be about fifteen dollars. The team then said they would compare the cost of using an LCD with the cost of using speech recognition.",
+      "citations": [
+        {
+          "meeting_id": "IS1007c",
+          "quote": "So for my part I will check the prices the um the prices difference uh of what to use, where to use, and s uh and so on."
+        },
+        {
+          "meeting_id": "IS1007d",
+          "quote": "It's about so the total cost if you if you want all the fuct functionalities will be about uh fifteen dollars."
+        }
+      ]
+    },
+    {
+      "question_id": "Q22",
+      "answer": "B suggested using a small lithium battery, while A noted the option of Triple‑A cells as an alternative because battery type and size were important, and the team ultimately decided on lithium in the final call.",
+      "citations": [
+        {
+          "meeting_id": "ES2010c",
+          "quote": "I think, well, we could d r do two or we could do one small lithium, 'cause you know the lithium batteries are doing quite well in most other electronic products, right? So they're more widely available now. And they also have a longer battery life than most batteries. But if you only have to replace it every five years."
+        },
+        {
+          "meeting_id": "ES2010a",
+          "quote": "Here we can Triple A. But it's okay, we don't have to decide about it now, just as long as we remember battery type and size is important. Hey. Anything else?"
+        },
+        {
+          "meeting_id": "ES2010d",
+          "quote": "Yeah. But if it's a do you wanna go for this is where we need to make a final call on if it's a lithium or do we wanna go triple A_s, 'cause triple A_s we're gonna have t do more than one battery. Oh, let's just go for a lithium. What do you say? I think uh I think the people who purchase this are gonna be technologically right. Okay, down to the electronics um section. We're gonna need this kind, correct, if we do the voice sensor, so one of those."
+        }
+      ]
+    },
+    {
+      "question_id": "Q23",
+      "answer": "They retained the headline features of voice recognition and an LCD display, but replaced the scrolling interface with simple push‑button controls and aimed for a simpler, clearer overall design to stay under budget.",
+      "citations": [
+        {
+          "meeting_id": "ES2006d",
+          "quote": "Not really, no. Because we keep all the features, we keep voice recognition, we keep L_C_D_ display. We instead of having scrolling we we just push the buttons. Um yeah."
+        },
+        {
+          "meeting_id": "ES2006b",
+          "quote": "Okay. Um so i in my personal preferences um I'm hoping that we can ke keep the design as simple and clear as possible. This would uh help us uh to upgrade our technology at a future point of time. And uh also if we can incorporate uh the latest features in our chip design, so that our um uh remote control does not become outdated soon and it's compatible with mot most uh televisions. That's about it. So anything that you would like to know or"
+        }
+      ]
+    },
+    {
+      "question_id": "Q24",
+      "answer": "Insufficient evidence is provided to determine the first agreed power source, the addition the project manager liked, and the final design used.",
+      "citations": [
+        {
+          "meeting_id": "ES2002b",
+          "quote": "Um okay this finding things is a little bit confusing, so I'll go into the diagram first. It just explains how the process goes through, from a from the basic technology point of view, the basic steps that you need um in the diagram and in this slide probably works better. Um okay, you need some power source. 'Kay, a battery or something, to keep it going. Um and that power source is important because it ties you down to um how long the device will last. Um it ties you down perhaps a bit later on in terms of the technologies um how far you can transmit the signal or the complexity of the functions that you want. Like for example, voice recognition, right. That might be constrained because that you might need to power a microphone, you might need to power other things, so that's one perhaps constraint there. Um"
+        },
+        {
+          "meeting_id": "ES2002c",
+          "quote": "um and that impacts cost. Um I don't think the logic chip has a issue about size 'cause they should be about the same size. Power consumption should be about the same. Um I think the main impact is complexity, um and the other thing is um the power options. Um the first one is a standard battery. Okay the second one I think is more of a gimmick then actually a useable thing, it's a wind-up you know, a crank. Yeah but that that might be something I think that's more of a look and feel decision because I don't think you can have one power source if you're using the alternative power sources."
+        }
+      ]
+    },
+    {
+      "question_id": "Q25",
+      "answer": "The team never settled on a final choice for fruit versus vegetable shapes; they only discussed interchangeable options and whether to print fruit designs, leaving the decision unresolved.",
+      "citations": [
+        {
+          "meeting_id": "ES2011d",
+          "quote": "You could change the vegetable, or fruit."
+        },
+        {
+          "meeting_id": "ES2011c",
+          "quote": "Um. I I have been thinking about this fruit and vegetable thing and I prefer fruits to vegetables, but that's just a personal opinion. I think I think people like to have a fruit instead of a vegetables in their sitting room. Uh those are just suggestions and also we need to decide whether this should be printed, so that still has to do with the material discuss should we print the fruit stuff, or should the actual remote look like a fruit? Um, and finally again with the spongy. It has to be technologically innovative so maybe again our Industrial Designer should look into that or find come up with a solution that's better than mine. Um, yeah, to summarise these are the points that need to be um, touched in order to get a good decision, and hopefully our User Interface has more to say about the matter. Thank you for your attention."
+        }
+      ]
+    }
+  ],
+  "failed_questions": [],
+  "token_usage": {
+    "prompt_tokens": 89941,
+    "completion_tokens": 5380,
+    "total_tokens": 95321
+  }
+}
